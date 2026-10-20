@@ -4,6 +4,11 @@ Temporary Android TV preview downloads. This repository contains distribution in
 
 [Download the latest test APK](https://github.com/VibeTV-Development/tv-preview-builds/releases/latest/download/app.apk)
 
+**Downloader code: `9509249`**
+
+Enter the code in the Downloader app, or open [aftv.news/9509249](https://aftv.news/9509249).
+This code points to the latest published test APK, so it stays the same for future updates.
+
 ## Install or update
 
 1. Download `app.apk` on your Android TV device (Android 8.0 or newer).
