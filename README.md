@@ -1,8 +1,14 @@
-# TV preview builds
+# TiviNerd preview builds
+
+TiviNerd is the temporary development name of this Android TV player.
+
+**Name transition:** the current signed 0.31 APK still displays the previous
+working name. It will be replaced by a qualified TiviNerd build; existing
+installations can update without uninstalling.
 
 Temporary Android TV preview downloads. This repository contains distribution information and release assets only.
 
-[Download the latest test APK](https://github.com/VibeTV-Development/tv-preview-builds/releases/latest/download/app.apk)
+[Download the latest test APK](https://github.com/TiviNerd-Development/tv-preview-builds/releases/latest/download/app.apk)
 
 **Downloader code: `9509249`**
 
