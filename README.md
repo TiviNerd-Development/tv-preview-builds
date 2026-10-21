@@ -2,9 +2,7 @@
 
 TiviNerd is the temporary development name of this Android TV player.
 
-**Name transition:** the current signed 0.31 APK still displays the previous
-working name. It will be replaced by a qualified TiviNerd build; existing
-installations can update without uninstalling.
+**Current build: TiviNerd 0.32.0-dev / code33.** Existing compatible installations can update without uninstalling.
 
 Temporary Android TV preview downloads. This repository contains distribution information and release assets only.
 
@@ -24,7 +22,7 @@ This code points to the latest published test APK, so it stays the same for futu
 
 To update an existing compatible installation, download the same link again and install over it. Do not uninstall first if you want to retain your settings.
 
-These are development-signed test builds. The current internal build uses English; automatic in-app update checks are not included yet. Read the release notes for known limits.
+These are development-signed test builds. The current internal build uses English; version 0.32 adds Settings > About > App updates. Optional daily checks do not download or install automatically; download and Android installation require your choice. Read the release notes for known limits.
 
 ## Files
 
